@@ -43,12 +43,12 @@ MagDot introduces a magnetic-based, drift-free method for wearable joint angle t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2022</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic calibration of magnetic tracking](https://dl.acm.org/doi/abs/10.1145/3495243.3558760)
 
-<sup>*</sup> Mingke Wang, <sup>*</sup> **Qing Luo**, Yasha Iravantchi, Xiaomeng Chen, Alanson Sample, Kang G Shin, Xiaohua Tian, Xinbing Wang, Dongyao Chen
+Mingke Wang<sup>*</sup>, **Qing Luo**<sup>*</sup>, Yasha Iravantchi, Xiaomeng Chen, Alanson Sample, Kang G Shin, Xiaohua Tian, Xinbing Wang, Dongyao Chen
 
 MagDot introduces a magnetic-based, drift-free method for wearable joint angle tracking, achieving high accuracy in VR/AR, sports monitoring, and medical rehabilitation. Tested with a professional motion capture system, MagDot demonstrates precision of 2.72°, 4.14°, and 4.61° for elbow, knee, and shoulder, respectively, while consuming only 98mW, enabling all-day use with a small battery pack.
  
@@ -56,7 +56,7 @@ MagDot introduces a magnetic-based, drift-free method for wearable joint angle t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2021</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MagX: wearable, untethered hands tracking with passive magnets](https://dl.acm.org/doi/abs/10.1145/3447993.3483260)
