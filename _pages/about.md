@@ -31,6 +31,7 @@ My research interests include mobile sensing and wearable computing. I have publ
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+<a name="publications"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
