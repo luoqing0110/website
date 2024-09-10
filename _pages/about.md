@@ -36,6 +36,8 @@ My research interests include mobile sensing and wearable computing. I have publ
 [MagDot: Drift-free, Wearable Joint Angle Tracking at Low Cost](https://dl.acm.org/doi/abs/10.1145/3631423)
 
 Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
+
+MagDot introduces a magnetic-based, drift-free method for wearable joint angle tracking, achieving high accuracy in VR/AR, sports monitoring, and medical rehabilitation. Tested with a professional motion capture system, MagDot demonstrates precision of 2.72°, 4.14°, and 4.61° for elbow, knee, and shoulder, respectively, while consuming only 98mW, enabling all-day use with a small battery pack.
  
 [paper](files/MagDot.pdf)
 </div>
@@ -44,22 +46,26 @@ Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MagDot: Drift-free, Wearable Joint Angle Tracking at Low Cost](https://dl.acm.org/doi/abs/10.1145/3631423)
+[Automatic calibration of magnetic tracking](https://dl.acm.org/doi/abs/10.1145/3495243.3558760)
 
-Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
+<sup>*</sup> Mingke Wang, <sup>*</sup> **Qing Luo**, Yasha Iravantchi, Xiaomeng Chen, Alanson Sample, Kang G Shin, Xiaohua Tian, Xinbing Wang, Dongyao Chen
+
+MagDot introduces a magnetic-based, drift-free method for wearable joint angle tracking, achieving high accuracy in VR/AR, sports monitoring, and medical rehabilitation. Tested with a professional motion capture system, MagDot demonstrates precision of 2.72°, 4.14°, and 4.61° for elbow, knee, and shoulder, respectively, while consuming only 98mW, enabling all-day use with a small battery pack.
  
-[paper](files/MagDot.pdf)
+[paper](files/MAGIC.pdf)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MagDot: Drift-free, Wearable Joint Angle Tracking at Low Cost](https://dl.acm.org/doi/abs/10.1145/3631423)
+[MagX: wearable, untethered hands tracking with passive magnets](https://dl.acm.org/doi/abs/10.1145/3447993.3483260)
 
-Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
+Dongyao Chen, Mingke Wang, Chenxi He, **Qing Luo**, Yasha Iravantchi, Alanson Sample, Kang G Shin, Xinbing Wang
+
+MagDot introduces a magnetic-based, drift-free method for wearable joint angle tracking, achieving high accuracy in VR/AR, sports monitoring, and medical rehabilitation. Tested with a professional motion capture system, MagDot demonstrates precision of 2.72°, 4.14°, and 4.61° for elbow, knee, and shoulder, respectively, while consuming only 98mW, enabling all-day use with a small battery pack.
  
-[paper](files/MagDot.pdf)
+[paper](files/MagX.pdf)
 </div>
 </div>
 
