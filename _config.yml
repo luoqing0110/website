@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Qing Luo"
+description              : "LLM Algorithm Engineer"
 url                      : https://luoqing0110.github.io/website
 repository               : "luoqing0110/luoqing0110.github.io/website"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qing Luo (罗庆)"
   avatar           : "images/profile-2.png"
-  bio              : "LLM Algorithm Engineer"
+  bio              : ""
   location         : "Changsha, China"
   employer         :
   pubmed           : 
