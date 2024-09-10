@@ -40,6 +40,28 @@ Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MagDot: Drift-free, Wearable Joint Angle Tracking at Low Cost](https://dl.acm.org/doi/abs/10.1145/3631423)
+
+Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
+ 
+[paper](files/MagDot.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/magdot_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MagDot: Drift-free, Wearable Joint Angle Tracking at Low Cost](https://dl.acm.org/doi/abs/10.1145/3631423)
+
+Dongyao Chen, **Qing Luo**, Xiaomeng Chen, Xinbing Wang, Chenghu Zhou
+ 
+[paper](files/MagDot.pdf)
+</div>
+</div>
+
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
