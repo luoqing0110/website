@@ -44,7 +44,7 @@ MagDot introduces a magnetic-based, drift-free method for wearable joint angle t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2022</div><img src='images/magic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2022</div><img src='images/magic_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic calibration of magnetic tracking](https://dl.acm.org/doi/abs/10.1145/3495243.3558760)
